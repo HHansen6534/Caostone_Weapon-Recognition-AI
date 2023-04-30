@@ -1,4 +1,4 @@
-# Capstone_Weapon-Recognition-AI
+# Capstone-Weapon-Recognition-AI
 This is the Repository for our Weapon Recognition AI. It includes our code and documentation for our project. Our group members include Dylan Dorough, Adrian Tudur, and Haley Hansen
 
 The folder capstone-final-code contains the code for the entire project. We use a simple webcam for our camera, python, openCV for the object recognition, labelImg for cropping the images, and TensorFlow for training our model. 
